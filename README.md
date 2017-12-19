@@ -1,4 +1,4 @@
-# Atom RSpec Runner Package
+# Atom INSpec Runner Package
 
 [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/bcorner13/atom-inspec)
 
